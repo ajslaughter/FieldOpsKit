@@ -1,6 +1,6 @@
 # Field Operations Console
 
-> **Enterprise Grade Field Automation for Adolfson & Peterson Construction**
+> **Enterprise Grade Field Automation**
 >
 > *Built for the Systems Analyst Role*
 
